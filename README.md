@@ -19,7 +19,7 @@ The COO suspects that inefficient shipping, regional market share loss, and a la
 5. Top 5 products by total revenue : "Canon imageCLASS 2200 Advanced Copier", "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind", "Cisco TelePresence System EX90 Videoconferencing Unit",
    "HON 5400 Series Task Chairs for Big and Tall", "GBC DocuBind TL300 Electric Binding System"
    
-   Bottom 5 products by total profit: "Cubify CubeX 3D Printer Double Head Print", "Lexmark MX611dhe Monochrome Laser Printer", "Cubify CubeX 3D Printer Triple Head Print"
+   Bottom 5 products by total profit : "Cubify CubeX 3D Printer Double Head Print", "Lexmark MX611dhe Monochrome Laser Printer", "Cubify CubeX 3D Printer Triple Head Print"
    "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases", "Bush Advantage Collection Racetrack Conference Table" .
 6. "July" month has lowest profit rate = 6.21% .
 7. "Consumer" segment is most profitable, has highest total sales = 1,161,401.34 and highest profit = 134,119.21, but "Home Office" segment has highest profit rate = 14% .
